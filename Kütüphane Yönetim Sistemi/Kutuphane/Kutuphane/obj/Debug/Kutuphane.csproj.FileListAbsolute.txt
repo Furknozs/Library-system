@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Kütüphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\Acer\Desktop\Kütüphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\Acer\Desktop\Kütüphane\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\Acer\Desktop\Kütüphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Kütüphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Kütüphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\Acer\Desktop\Kütüphane\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
